@@ -324,7 +324,7 @@ export default function Home() {
               </h2>
               <div aria-hidden="true" className="mt-7 h-1 w-16 rounded-full bg-gradient-to-r from-blue-800 to-sky-400" />
               <p className="mt-7 max-w-2xl text-base leading-8 text-slate-600 sm:text-lg">
-                Directed by Alla Gopi Krishna, we specialize in delivering high-quality railway engineering, infrastructure, and comprehensive signalling solutions.
+                We specialize in delivering high-quality railway engineering, infrastructure, and comprehensive signalling solutions.
               </p>
               <p className="mt-5 max-w-2xl text-base leading-8 text-slate-600 sm:text-lg">
                 We are dedicated to building robust railway networks while ensuring strict compliance with national railway standards, focusing on safety, precision, and timely delivery.
@@ -401,10 +401,6 @@ export default function Home() {
               <p className="max-w-2xl text-sm leading-6 text-slate-400">
                 From signalling works to ongoing maintenance, our services support railway infrastructure through every stage of execution.
               </p>
-              <a href="#contact" className="group inline-flex shrink-0 items-center gap-2 rounded-full border border-sky-200/35 px-5 py-3 text-sm font-semibold text-white transition-colors hover:border-sky-200/70 hover:bg-sky-200/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950">
-                Discuss a project
-                <ArrowUpRightIcon className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5 motion-reduce:transform-none" />
-              </a>
             </div>
           </div>
         </section>
